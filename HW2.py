@@ -4,6 +4,7 @@ print(names[2], names[3], names[4])
 a = []
 for i in range(101, 169):
     if i % 2 == 1:
+        a.append(i)
         print(i)
 # Version 2
 b = []
