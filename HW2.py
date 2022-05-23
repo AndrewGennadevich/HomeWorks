@@ -5,7 +5,7 @@ a = []
 for i in range(101, 169):
     if i % 2 == 1:
         a.append(i)
-print(i)
+print(a)
 # Version 2
 b = []
 for i in range(1, 99):
