@@ -1,20 +1,29 @@
-import turtle as window
+import turtle
 
-window.pensize(4)
-window.pencolor('red')
+turtle.shape("turtle")
 
-window.forward(100)
-window.right(90)
-window.forward(100)
-window.right(90)
-window.forward(100)
-window.right(90)
-window.forward(100)
-window.up()
-window.forward(100)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
 
-window.mainloop()
 
+import turtle
+
+turtle.shape("turtle")
+
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
 
 
 
